@@ -1,7 +1,7 @@
 # The Haunted House 
 This is a website I have made as a assignment in the 4th semester. This is a based on Haunted Game where the user will be given some situations and he will revert on those situations. If his answer is correct he will move to the next part otherwise he will get stuck here for forever.
 This is the website I have made as a project for my Course in the 5th semester. This is a website related to halloween.
-This website can be acccessed by [Clicking Here](https://aakashdeepwahi.github.io/Fitness2.0/). So that you guys can enjoy our spooky theme. Here is a quiz that you can access in it with some dangerous sound. I request that heart patients please lower the volume while playing. One can play this quiz game over the phone, laptop and tablet.
+This website can be acccessed by [Clicking Here](https://aakashdeepwahi.github.io/TheHauntedHouse/). So that you guys can enjoy our spooky theme. Here is a quiz that you can access in it with some dangerous sound. I request that heart patients please lower the volume while playing. One can play this quiz game over the phone, laptop and tablet.
 
 
 ## Installation
